@@ -1,0 +1,47 @@
+/* ここから下に記載していく */
+
+
+
+div{
+    text-align: center;
+    margin-left: auto;margin-right: auto;
+    text-align: center;
+}
+
+div.header{
+    margin: 0;
+    padding: 50px; 
+   }
+   ul {
+     list-style:none;
+   }
+   div {
+     padding: 0 30px;
+   }
+   .header {
+     display: flex;
+     height:50px;
+     align-items: center;
+   }
+   .header nav {
+     margin-left: auto;
+   }
+   .header ul {
+     display: flex;
+   }
+   .header ul li {
+     margin-left: 20px;
+   }
+
+
+heroimage{
+    position: relative;
+    
+}
+
+
+heroimage{
+    font-size: 18px;
+
+
+}
